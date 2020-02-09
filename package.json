@@ -1,0 +1,28 @@
+{
+  "name": "owl-color",
+  "version": "0.7.1",
+  "description": "> 较为完善的守望先锋联赛队伍配色，包含RGB颜色和Hex两种\r >\r > 可以用于build和守望先锋联赛相关的项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsuinterukonsigure/owl-color.git"
+  },
+  "keywords": [
+    "owl-color"
+  ],
+  "author": "Yans_ly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsuinterukonsigure/owl-color/issues"
+  },
+  "homepage": "https://github.com/tsuinterukonsigure/owl-color#readme",
+  "dependencies": {
+    "ramda": "^0.27.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
